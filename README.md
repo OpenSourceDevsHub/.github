@@ -1,1 +1,1 @@
-# .github
+# Check profile/README.md
