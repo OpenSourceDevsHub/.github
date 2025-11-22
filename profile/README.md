@@ -60,7 +60,7 @@
 - Доступ к базе знаний и опыту сообщества
 - Помощь в развитии ваших open source проектов
 
-### Телеграм канал с анонсами от [pashkov256](https://t.me/pashkov256) создателя сообщества 
+### Телеграм канал с анонсами от создателя сообщества [pashkov256](https://t.me/pashkov256)
 
-[t.me/pashkov2560](https://t.me/pashkov2560)
 
+<a href="https://t.me/pashkov2560" ><img src="../assets/blog.png" ></a>
