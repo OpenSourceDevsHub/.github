@@ -29,7 +29,6 @@
 
 <div>
 
-
 <p>
 <a href="https://t.me/EasyContributeBot" >@EasyContributeBot</a>
 
@@ -37,6 +36,12 @@
 - Открыть для себя интересные open source проекты
 - Продвигать свои проекты среди единомышленников
 </p>
+</div>
+
+
+<div>
+
+
 
 
 </div>
