@@ -1,6 +1,6 @@
 
 
-<a href="https://t.me/OpenSource_Chat" ><img src="../assets/ossdevs.png"></a>
+<a href="https://t.me/OpenSource_Chat" ><img src="../assets/ossdevs.png" width="350px"></a>
 
 
 ### 🎯 Наша миссия
@@ -19,7 +19,7 @@
 - Получать помощь и советы от опытных разработчиков
 <br/>
 
-<img src="../assets/join.svg">
+<img src="../assets/join.svg" width="300px">
 <br/><hr/>
 
 ### 🤖 Наш бот
@@ -37,7 +37,7 @@
 - Продвигать свои проекты среди единомышленников
 </p>
 </div>
-<a href="https://t.me/EasyContributeBot" ><img src="../assets/try_bot.svg"></a>
+<a href="https://t.me/EasyContributeBot" ><img src="../assets/try_bot.svg" width="260px"></a>
 
 
 <div>
