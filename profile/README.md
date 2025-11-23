@@ -1,4 +1,4 @@
-[RU](./locales/ru/README.md) | [EN](./locales/en/README.md)
+[RU](https://github.com/OpenSourceDevsHub/.github) | [EN](./locales/en/README.md)
 
 
 <a href="https://t.me/OpenSource_Chat" ><img src="assets/ossdevs.png" width="350px"></a>
